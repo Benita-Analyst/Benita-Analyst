@@ -1,5 +1,5 @@
 Hi, I am Benita,
-I a Data Analyst.
+I am a Data Analyst,
 who is passionate about learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
